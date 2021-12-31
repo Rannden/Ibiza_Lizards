@@ -1,0 +1,30 @@
+{
+  "dna": "4276fe1bb5182fb921c6bc7a00bdbce2",
+  "name": "Ibiza Lizards #0",
+  "description": "The magical Ibiza island, is there with common, rare and magical skins.",
+  "image": "https://raw.githubusercontent.com/Rannden/NFT_Collection/main/0.png",
+  "date": 1640968772255,
+  "attributes": [
+    {
+      "trait_type": "Fondos",
+      "value": "Ibiza Beach #1 (5%)"
+    },
+    {
+      "trait_type": "Cuerpos",
+      "value": "Rose Body (3%)"
+    },
+    {
+      "trait_type": "Detalles",
+      "value": "Light Green Power (10%)"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Sunglasses (15%)"
+    },
+    {
+      "trait_type": "Bocas",
+      "value": "Tongue (30%)"
+    }
+  ],
+  "compiler": "raremints.club"
+}
